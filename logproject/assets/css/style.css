@@ -1,0 +1,16 @@
+/**
+ * Override feedback icon position
+ * See http://formvalidation.io/examples/adjusting-feedback-icon-position/
+ */
+#dateRangeForm .form-control-feedback {
+    top: 0;
+    right: -15px;
+}
+
+.btn-style {
+    margin: 5px; 
+}
+
+.bg-danger {
+    background-color: #f2dede;
+}
